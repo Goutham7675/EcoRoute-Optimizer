@@ -1,7 +1,7 @@
 # Green-Route-Planner-with-EV-Priority-Emission-Budgeting
 Green Route Planner with EV Priority &amp; Emission Budgeting
-# As of now the project is under development stage, I'm working on it for a couple of weeks, once the project is completed I'll upload all files related to the project here
-
+# At present I've deleted previously uploaded files as I'm fixing minor bugs in this project, I'm working on the project to optimize the REST-APIs, Map API
+# I'll upload the project files after a few days 
 # 🌱 Green Route Planner with EV Priority & Emission Budgeting
 
 A smart, AI-powered logistics route planner designed to optimize vehicle routing for environmental sustainability. This tool prioritizes Electric Vehicles (EVs), adheres to a defined carbon emissions budget, avoids traffic congestion using real-time data, and delivers optimized, eco-conscious logistics solutions for both EVs and Internal Combustion Engine (ICE) vehicles.
